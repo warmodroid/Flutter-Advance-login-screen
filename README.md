@@ -1,6 +1,6 @@
-# flutter_advance_login
+# flutter advance login UI
 
-A new Flutter application.
+Learn how to design advance login screen UI in flutter.
 
 ## Getting Started
 
