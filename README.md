@@ -6,7 +6,7 @@ Learn how to design advance login screen UI in flutter.
 
 This project is a starting point for a Flutter application.
 
-![GitHub Logo](/assets/rocket.png)
+![GitHub Logo](/assets/demo.png)
 Format: ![Alt Text](url)
 
 A few resources to get you started if this is your first Flutter project:
